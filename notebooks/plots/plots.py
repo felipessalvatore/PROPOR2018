@@ -90,3 +90,46 @@ def plot_histogram_from_labels(labels, labels_legend, comment):
                  str(int(data_hist[0][i])))
     plt.show()
     plt.close()
+
+def simple_step_plot(ylist,
+                     yname,
+                     title,
+                     path,
+                     x_axis=None,
+                     figsize=(4, 4),
+                     labels=None):
+    """
+    Plots values over time.
+
+    :param ylist: list of values lists
+    :type ylist: list
+    :param yname: value name
+    :type yname: str
+    :param title: plot's title
+    :type title: str
+    :param path: path to save plot, use None for not saving
+    :type path: str
+    :param figsize: plot's size
+    :type figsize: tuple
+    :param labels: label for each values list in ylist
+    :type range_points: list
+    """
+    y0 = ylist[0]
+    if x_axis is None:
+        x = np.arange(1, len(y0) + 1, 1)
+    else:
+        x = x_axis
+    fig, ax = plt.subplots(1, 1, figsize=figsize)
+    for y in ylist:
+        ax.plot(x, y)
+    plt.xlabel('date')
+    plt.ylabel(yname)
+    plt.title(title,
+              fontsize=14,
+              fontweight='bold')
+    plt.grid(True)
+    if labels is not None:
+        plt.legend(labels,
+                   loc='upper left')
+    if path is not None:
+        plt.savefig(path)
