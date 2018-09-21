@@ -125,9 +125,6 @@ def generate_sentiment_data(size=5000,
 
     df_train = df.iloc[:cut_point]
     df_test = df.iloc[cut_point:]
-    print(df_train.columns)
-    print(df_test.columns)
-
 
     # ### Saving to CSV
 

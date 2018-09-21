@@ -39,7 +39,6 @@ def simple_pre_process_text_df(data):
     data['text'] = data['text'].apply((lambda x: spaces.sub(" ", x))) #remove double spaces
     
 def simple_pre_process_text(sentence):
-    sentence = re.sub('RT','', sentence)
     sentence = sentence.lower()
     sentence = re.sub('[^a-zA-z0-9\s]','', sentence)
     return sentence
