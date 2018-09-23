@@ -115,10 +115,10 @@ def generate_sentiment_data(size=5000,
         len(all_positive_sen) + [2] * len(all_neutral_sen)
 
     df_dict = {"text": sentences,
-               "labels": labels}
+               "label": labels}
 
     df = pd.DataFrame(df_dict)
-    df = df[["text", "labels"]]
+    df = df[["text", "label"]]
     df = df.sample(frac=1).reset_index(drop=True)
 
     cut_point = int(len(df) * train_test_split)
