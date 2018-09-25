@@ -2,7 +2,7 @@
 
 ### Itrodução
 
-Nesse repositório voce vai encontrar notebooks para o tutorial apresentado na **International Conference on the Computational Processing of Portuguese (Propor 2018)**
+Nesse repositório voce vai encontrar os notebooks e os slides para o tutorial apresentado na **International Conference on the Computational Processing of Portuguese (Propor 2018)**.
 
 ### Instalação (Ubuntu / Debian)
 Para quem desejar, recomendamos a utilização de ambientes virtuais.
