@@ -1,6 +1,6 @@
 # PROPOR2018: Processamento de Linguagem Natural por meio de redes neurais profundas: Teoria e Aplicações
 
-### Itrodução
+### Introdução
 
 Nesse repositório voce vai encontrar os notebooks e os slides para o tutorial apresentado na **International Conference on the Computational Processing of Portuguese (Propor 2018)**.
 
