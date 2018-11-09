@@ -1,0 +1,115 @@
+source,candidate,reference,blue,accuracy
+i survived ,eu contribui ,eu sobrevivi ,0.135,0
+enjoy yourselves ,te se ,divirtam se ,0.240,0
+wash up ,te se ,lava te ,0.135,0
+they canceled ,elas aprovam ,eles cancelaram ,0.114,0
+back off ,aguarde ,para tras ,0.091,0
+tom agreed ,tom recuou ,tom concordou ,0.135,0
+i prayed ,eu contribui ,eu rezei ,0.135,0
+say cheese ,fique  ,sorria ,0.114,0
+calm down ,te se ,acalme se ,0.240,0
+hurry up ,te se ,apresse se ,0.240,0
+i paid ,eu  ,eu paguei ,0.135,0
+open up ,te ,abra ,0.150,0
+who stopped ,quem quem ,quem parou ,0.135,0
+tom laughed ,tom recuou ,tom riu ,0.135,0
+be prepared ,seja tolerante ,estejam preparados ,0.114,0
+get everything ,vem  ,peguem tudo ,0.114,0
+tom changed ,tom cancelou ,tom mudou ,0.135,0
+watch yourself ,te se ,tenha cuidado ,0.114,0
+call me ,me me,me liga ,0.091,0
+keep quiet ,fique cavando ,fica quieto ,0.114,0
+goodbye ,passaros  ,ate logo ,0.114,0
+really ,elas  ,serio ,0.114,0
+keep quiet ,fique cavando ,fique quieto ,0.135,0
+happy easter ,feliz  ,feliz pascoa ,0.135,0
+that worked ,prove  ,aquilo funcionou ,0.114,0
+see you ,obrigado ,nos vemos ,0.091,0
+try some ,cachorros o ,experimenta ,0.114,0
+tom cheered ,tom cancelou ,tom aplaudiu ,0.135,0
+follow me ,ajudem me ,me sigam ,0.135,0
+good morning ,fiquem  ,bom dia ,0.114,0
+come over ,vem ,venha ,0.150,0
+we waited ,nos ,nos esperamos ,0.108,0
+wait ,aguarde ,espere ,0.150,0
+back off ,aguarde ,recuem ,0.150,0
+who phoned ,quem quem ,quem chamou ,0.135,0
+start here ,ignore aqui ,comece aqui ,0.240,0
+how humiliating ,que bonitinha ,que humilhante ,0.135,0
+we try ,nos ,tentamos ,0.150,0
+terrific ,aguarde ,fantastico ,0.150,0
+ignore them ,ignore o ,ignorem nos ,0.114,0
+of course ,cachorros ,e claro ,0.091,0
+come alone ,vem logo ,venha sozinho ,0.114,0
+i apologize ,eu esqueci ,perdao ,0.114,0
+marry me ,me me ,case comigo ,0.114,0
+tom phoned ,tom cancelou ,tom telefonou ,0.135,0
+i left ,eu contribui ,eu sai ,0.135,0
+who complained ,quem interveio ,quem reclamou ,0.135,0
+i grunted ,eu contribui ,eu resmunguei ,0.135,0
+hey relax ,fiquem  ,ei relaxa ,0.114,0
+nobody knows ,continuem cavando ,ninguem sabe ,0.114,0
+come on ,aguarde ,qual e ,0.091,0
+how awful ,que que ,que horror ,0.135,0
+fire ,passaros  ,fogo ,0.114,0
+check this ,prove isso ,verifique isto ,0.114,0
+i resigned ,eu contribui ,eu renunciei ,0.135,0
+keep working ,continuem cavando ,continuem trabalhando ,0.135,0
+have another ,fiquem se ,tome outra ,0.114,0
+keep calm ,continuem cavando ,acalme se ,0.114,0
+i tripped ,eu contribui ,tropecei ,0.114,0
+somebody answered ,quem tudo ,alguem respondeu ,0.114,0
+listen up ,eu ,escutem ,0.150,0
+keep driving ,continuem cavando ,continue dirigindo ,0.114,0
+i sneezed ,eu  ,eu espirrei ,0.135,0
+how absurd ,que bonitinha ,que absurdo ,0.135,0
+they succeeded ,elas aprovam ,eles conseguiram ,0.114,0
+beat it ,entendi ,se manda ,0.091,0
+good night ,fiquem o ,boa noite ,0.114,0
+they crashed ,elas aprovam ,elas bateram ,0.135,0
+come over ,vem ,venham ,0.150,0
+explain yourself ,te se ,se explique ,0.135,0
+be merciless ,seja tolerante ,seja piedosa ,0.135,0
+sit down ,te se ,assente se ,0.240,0
+stop here ,vem ,pare aqui ,0.091,0
+finish this ,prove isto ,termine isso ,0.114,0
+we know ,nos ,nos sabemos ,0.108,0
+have courage ,tenham  ,tenha coragem ,0.114,0
+be careful ,se se ,toma cuidado ,0.114,0
+get up ,te se ,levantem se ,0.240,0
+be discreet ,se se ,se discreto ,0.135,0
+sweet dreams ,fiquem  ,bons sonhos ,0.114,0
+tom escaped ,tom cancelou ,tom escapou ,0.135,0
+listen ,eu ,escuta ,0.150,0
+be fair ,se se ,sede justas ,0.114,0
+stay here ,todos aqui ,fique aqui ,0.240,0
+how strange ,que bonitinha ,que estranho ,0.135,0
+i try ,eu contribui ,eu tento ,0.135,0
+wake up ,acorde ,acordem ,0.150,0
+sing along ,vem  ,cante junto ,0.114,0
+stand up ,cai se ,levante se ,0.240,0
+keep practicing ,continuem cavando ,continue praticando ,0.114,0
+get out ,aguarde ,saia ,0.150,0
+try it ,cachorros o ,tenta o ,0.240,0
+tom obeyed ,tom cancelou ,tom obedeceu ,0.135,0
+kiss me ,me me ,me beije ,0.135,0
+then what ,passaros o ,e dai ,0.114,0
+tom exhaled ,tom cancelou ,tom exalou ,0.135,0
+tom looked ,tom cancelou ,tom olhou ,0.135,0
+we survived ,nos ,sobrevivemos ,0.150,0
+stay calm ,fiquem ai ,fique calmo ,0.114,0
+he runs ,ele aqui ,ele corre ,0.135,0
+keep quiet ,fique cavando ,fique quieta ,0.135,0
+how lovely ,que bonitinha ,que amavel ,0.135,0
+i see ,eu esqueci ,estou vendo ,0.114,0
+i fainted ,eu  ,eu desmaiei ,0.135,0
+they struggled ,elas aprovam ,lutaram ,0.114,0
+keep quiet ,fique cavando ,fica quieta ,0.114,0
+get everything ,vem  ,pegue tudo ,0.114,0
+taste this ,prove isto ,experimente isto ,0.240,0
+be creative ,se se ,sede criativas ,0.114,0
+tom died ,tom recuou ,tom morreu ,0.135,0
+unbelievable ,aguarde ,incrivel ,0.150,0
+have another ,fiquem se ,tomem outro ,0.114,0
+everyone smiled ,todos todos ,todos sorriram ,0.135,0
+stay down ,fiquem cavando ,fique abaixado ,0.114,0

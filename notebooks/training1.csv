@@ -1,0 +1,973 @@
+source,candidate,reference,blue,accuracy
+come back ,venha ,volte ,0.150,0
+everybody smiled ,todos riram ,todos sorriram ,0.135,0
+how touching ,que melodramatico ,que tocante ,0.135,0
+be tolerant ,se cuida ,sede tolerantes ,0.114,0
+i stopped ,eu entendi ,eu parei ,0.135,0
+be friendly ,se cuida ,seja amigavel ,0.114,0
+check that ,venha logo ,verifiquem isso ,0.114,0
+we won ,nos prometemos ,nos vencemos ,0.135,0
+study hard ,alguem ligou ,estude muito ,0.114,0
+control yourself ,controle se ,controle se ,0.562,0
+who stayed ,quem ,quem ficou ,0.108,0
+listen ,sem ,escutem me ,0.091,0
+be calm ,fique te ,fique calmo ,0.135,0
+how embarrassing ,que melodramatico ,que mico ,0.135,0
+learn italian ,quem ,aprenda italiano ,0.091,0
+it works ,isso ,funciona ,0.150,0
+tom drives ,tom veio ,tom dirige ,0.135,0
+have another ,toma cuidado ,toma outra ,0.135,0
+tom smiled ,tom veio ,tom sorriu ,0.135,0
+tom exaggerated ,tom veio ,tom exagerou ,0.135,0
+bring wine ,traga ,tragam vinho ,0.091,0
+watch out ,se ,cuidado ,0.150,0
+somebody intervened ,que melodramatico ,alguem interveio ,0.114,0
+goodbye ,eu entendi ,ate mais ,0.114,0
+they applauded ,eles aplaudiram ,eles aplaudiram ,0.562,0
+tom helped ,tom veio ,tom ajudou ,0.135,0
+answer me ,me ajuda ,respondam me ,0.135,0
+stand up ,se ,levantem se ,0.192,0
+tom prayed ,tom veio ,tom rezou ,0.135,0
+take these ,se cuida ,leve esses ,0.114,0
+help me ,me ajuda ,me ajude ,0.135,0
+try hard ,quem ,esforce se ,0.091,0
+we forgot ,nos prometemos ,esquecemos ,0.114,0
+nothing happened ,fiquem o ,nada aconteceu ,0.114,0
+tom dances ,tom veio ,tom danca ,0.135,0
+be creative ,se cuida ,se criativo ,0.135,0
+hello girls ,va embora ,oi garotas ,0.114,0
+i blinked ,eu entendi ,eu pisquei ,0.135,0
+keep out ,continue ,afaste se ,0.091,0
+thank you ,voce ,obrigada ,0.150,0
+any questions ,continue trabalhando ,alguma pergunta ,0.114,0
+tom listened ,tom veio ,tom escutou ,0.135,0
+try hard ,quem ,se esforca ,0.091,0
+flowers bloom ,va ,flores florescem ,0.091,0
+thank you ,voce ,obrigado ,0.150,0
+keep looking ,fique parado ,fique olhando ,0.135,0
+tom knew ,tom veio ,tom sabia ,0.135,0
+i promise ,eu entendi ,eu prometo ,0.135,0
+everybody jumped ,todos notaram ,todos pularam ,0.135,0
+tom succeeded ,tom veio ,tom conseguiu ,0.135,0
+they approve ,eles ,eles aprovam ,0.108,0
+he accelerated ,fique parado ,ele acelerou ,0.114,0
+who responded ,quem interveio ,quem respondeu ,0.135,0
+help ,ajude o ,socorro ,0.114,0
+hold this ,isto isto ,segure isto ,0.240,0
+keep digging ,continue trabalhando ,continue cavando ,0.135,0
+get up ,esperem ,levanta te ,0.091,0
+they swam ,eles aplaudiram ,eles nadaram ,0.135,0
+bring backup ,traga reforco ,traga reforcos ,0.135,0
+check that ,venha logo ,verifica isso ,0.114,0
+keep cool ,continue trabalhando ,te acalma ,0.114,0
+i disagreed ,eu entendi ,eu discordei ,0.135,0
+they escaped ,eles gritaram ,escaparam ,0.114,0
+hello ,va ,ola ,0.150,0
+memorize this ,isto isto ,memorizem isso ,0.114,0
+behave yourself ,controle se ,comportem se ,0.240,0
+keep digging ,continue trabalhando ,continuem cavando ,0.114,0
+everyone prayed ,todos notaram ,todos oraram ,0.135,0
+forget it ,esquece ,esquecam ,0.150,0
+have another ,toma cuidado ,tomem outra ,0.114,0
+take care ,se cuida ,cuide se ,0.135,0
+tom listens ,tom veio ,tom escuta ,0.135,0
+it stinks ,isso fede ,isso fede ,0.562,0
+how cute ,que melodramatico ,que fofinho ,0.135,0
+i tried ,eu entendi ,eu tentei ,0.135,0
+many thanks ,alguem ligou ,muito obrigado ,0.114,0
+come alone ,venha ,venha sozinha ,0.108,0
+get started ,va ,comeca ,0.150,0
+stay awake ,fique parado ,fique acordado ,0.135,0
+come inside ,va ,entrem ,0.150,0
+return immediately ,alguem ligou ,retornem imediatamente ,0.114,0
+we laughed ,nos prometemos ,nos rimos ,0.135,0
+attack ,va ,ataque ,0.150,0
+tom ate ,tom veio ,tom comeu ,0.135,0
+shut up ,esperem ,cala te ,0.091,0
+we surrender ,nos prometemos ,nos desistimos ,0.135,0
+come in ,entre ,entre ,0.316,0
+step back ,seja valente ,para tras ,0.114,0
+listen ,sem ,escute ,0.150,0
+be serious ,seja valente ,fica serio ,0.114,0
+thanks ,va embora ,obrigado ,0.114,0
+i remember ,eu entendi ,me lembro ,0.114,0
+they screamed ,eles gritaram ,eles gritaram ,0.562,0
+tom resigned ,tom veio ,tom renunciou ,0.135,0
+be cool ,seja valente ,seja legal ,0.135,0
+run ,corra ,corre ,0.150,0
+they walked ,eles gritaram ,elas caminharam ,0.114,0
+hold it ,isso fede ,segure isso ,0.135,0
+got it ,eu entendi ,eu entendi ,0.562,0
+tom stutters ,tom veio ,tom gagueja ,0.135,0
+go away ,va embora ,va embora ,0.562,0
+stay calm ,fique parado ,fique calma ,0.135,0
+someone called ,alguem ligou ,alguem ligou ,0.562,0
+come quickly ,venha logo ,vem logo ,0.240,0
+help me ,me ajuda ,ajudem me ,0.135,0
+i talked ,eu entendi ,eu falei ,0.135,0
+control yourself ,controle se ,controla te ,0.114,0
+tom promised ,tom veio ,tom prometeu ,0.135,0
+keep dancing ,continue trabalhando ,continue dancando ,0.135,0
+excuse me ,me ,com licenca ,0.091,0
+come forward ,venha logo ,venha adiante ,0.135,0
+i fainted ,eu entendi ,desmaiei ,0.114,0
+i failed ,eu entendi ,eu fracassei ,0.135,0
+he ran ,todos notaram ,ele corria ,0.114,0
+someone coughed ,va embora ,alguem tossiu ,0.114,0
+tom sweated ,tom veio ,tom suava ,0.135,0
+everyone laughed ,todos riram ,todos riram ,0.562,0
+that works ,isso ,funciona ,0.150,0
+everyone noticed ,todos notaram ,todos notaram ,0.562,0
+hello ,va ,oi ,0.150,0
+go ahead ,continue ,continue ,0.316,0
+nice timing ,tom veio ,na mosca ,0.114,0
+go ahead ,continue ,continuem ,0.150,0
+open fire ,quem interveio ,abrir fogo ,0.114,0
+be friendly ,se cuida ,sejam amigaveis ,0.114,0
+congratulations ,va embora ,parabens ,0.114,0
+start now ,ela veio ,comece agora ,0.114,0
+i yawned ,eu entendi ,eu bocejei ,0.135,0
+you won ,voce ,voces venceram ,0.091,0
+settle down ,acalme se ,acalme se ,0.562,0
+who listened ,quem interveio ,quem escutou ,0.135,0
+explain yourself ,controle se ,explique se ,0.240,0
+got it ,eu entendi ,saquei ,0.114,0
+we forgot ,nos prometemos ,nos esquecemos ,0.135,0
+help us ,nos ajude ,ajudem nos ,0.135,0
+wait up ,esperem ,espere ,0.150,0
+fix this ,isto isto ,conserta isto ,0.240,0
+tom fell ,tom veio ,tom caiu ,0.135,0
+come on ,va ,venha ,0.150,0
+tom inhaled ,tom veio ,tom inalou ,0.135,0
+who intervened ,quem interveio ,quem interveio ,0.562,0
+we overslept ,nos prometemos ,dormimos demais ,0.114,0
+they approve ,eles ,aprovam ,0.150,0
+stay together ,fique parado ,fiquem juntas ,0.114,0
+who cheated ,quem interveio ,quem trapaceou ,0.135,0
+i smiled ,eu entendi ,eu sorri ,0.135,0
+use this ,isto isto ,use isso ,0.114,0
+tom nodded ,tom veio ,tom acenou ,0.135,0
+how awful ,que maravilha ,que ridiculo ,0.135,0
+come in ,entre ,entra ,0.150,0
+i understand ,eu ,entendo ,0.150,0
+how exciting ,que melodramatico ,que massa ,0.135,0
+really ,e mesmo ,e mesmo ,0.562,0
+tom stayed ,tom veio ,tom ficou ,0.135,0
+keep writing ,continue trabalhando ,continuem escrevendo ,0.114,0
+terrific ,va ,excelente ,0.150,0
+i escaped ,eu entendi ,eu escapei ,0.135,0
+be fair ,se cuida ,sede justos ,0.114,0
+hi everybody ,todos notaram ,ola pessoal ,0.114,0
+really ,e mesmo ,mesmo ,0.240,0
+wait here ,vem ,espere aqui ,0.091,0
+everybody left ,todos notaram ,todos partiram ,0.135,0
+well done ,continue ,bem feito ,0.091,0
+they escaped ,eles gritaram ,eles escaparam ,0.135,0
+nobody listens ,ninguem se ,ninguem escuta ,0.135,0
+help me ,me ajuda ,ajudem me ,0.135,0
+help yourself ,controle se ,sirva se ,0.240,0
+hello girls ,va embora ,ola garotas ,0.114,0
+she cried ,ela veio ,ela chorou ,0.135,0
+they succeeded ,eles aplaudiram ,elas conseguiram ,0.114,0
+she tried ,ela veio ,ela tentou ,0.135,0
+tom voted ,tom veio ,tom votou ,0.135,0
+they quarreled ,eles gritaram ,elas brigaram ,0.114,0
+they laughed ,eles riram ,eles riram ,0.562,0
+calm down ,fique te ,acalme se ,0.114,0
+get tom ,tom veio ,pegue tom ,0.135,0
+be kind ,seja valente ,sede gentis ,0.114,0
+we agree ,nos prometemos ,concordamos ,0.114,0
+stop them ,nos prometemos ,detenha nos ,0.135,0
+get out ,afaste ,saiam ,0.150,0
+i prayed ,eu entendi ,eu orei ,0.135,0
+anything new ,va ,alguma novidade ,0.091,0
+choose carefully ,eu entendi ,escolha cuidadosamente ,0.114,0
+i noticed ,eu entendi ,notei ,0.114,0
+i forgot ,eu entendi ,eu esqueci ,0.135,0
+you promised ,voce ,voce prometeu ,0.108,0
+bring wine ,traga ,traga vinho ,0.108,0
+they danced ,elas dancaram ,dancaram ,0.240,0
+that helped ,venha ,isso ajudou ,0.091,0
+they voted ,eles colidiram ,eles votaram ,0.135,0
+stay close ,fique parado ,fique perto ,0.135,0
+never mind ,eu entendi ,esqueca ,0.114,0
+be realistic ,seja valente ,seja realista ,0.135,0
+any suggestions ,va ,alguma sugestao ,0.091,0
+ignore that ,ignore ,ignore ,0.316,0
+how clever ,que melodramatico ,que esperto ,0.135,0
+jesus wept ,ela veio ,jesus chorou ,0.114,0
+stay away ,fique parado ,fique longe ,0.135,0
+drive on ,va ,dirija ,0.150,0
+look again ,fiquem ,olhe novamente ,0.091,0
+continue digging ,continue trabalhando ,continue cavando ,0.135,0
+no kidding ,sem ,sem brincadeira ,0.108,0
+i forgot ,eu entendi ,esqueci ,0.114,0
+leave immediately ,ela veio ,saia imediatamente ,0.114,0
+forgive us ,nos prometemos ,nos perdoe ,0.135,0
+i helped ,eu entendi ,eu ajudei ,0.135,0
+calm down ,fique te ,acalme se ,0.114,0
+be still ,seja valente ,acalme se ,0.114,0
+how barbaric ,que ,que barbaro ,0.108,0
+you hypocrite ,voce sobreviveu ,seu hipocrita ,0.114,0
+hurry up ,esperem ,apressa te ,0.091,0
+i phoned ,eu entendi ,eu telefonei ,0.135,0
+then what ,e serio ,e agora ,0.135,0
+they stopped ,eles riram ,eles pararam ,0.135,0
+take care ,se cuida ,se cuida ,0.562,0
+i winked ,eu entendi ,eu pisquei ,0.135,0
+drive slowly ,que maravilha ,dirija devagar ,0.114,0
+take care ,se cuida ,toma cuidado ,0.114,0
+good afternoon ,eles gritaram ,boa tarde ,0.114,0
+i cried ,eu entendi ,eu chorei ,0.135,0
+prepare yourself ,controle se ,prepare se ,0.240,0
+you hypocrite ,voce sobreviveu ,sua hipocrita ,0.114,0
+he coughed ,eu entendi ,ele tossiu ,0.114,0
+who came ,quem interveio ,quem veio ,0.135,0
+defend yourselves ,se cuida ,defendam se ,0.135,0
+kiss me ,me ajuda ,me beija ,0.135,0
+continue working ,continue trabalhando ,continua trabalhando ,0.240,0
+see you ,voce ,ate logo ,0.091,0
+tom forgot ,tom veio ,tom esqueceu ,0.135,0
+everyone escaped ,todos notaram ,todas escaparam ,0.114,0
+how wonderful ,que maravilha ,maravilhoso ,0.114,0
+be careful ,se cuida ,toma cuidado ,0.114,0
+take care ,se cuida ,cuide se ,0.135,0
+me too ,eu entendi ,eu tambem ,0.135,0
+lighten up ,esperem ,relaxa ,0.150,0
+i laughed ,eu entendi ,eu ri ,0.135,0
+go on ,va ,va ,0.316,0
+who swam ,quem interveio ,quem nadou ,0.135,0
+follow me ,me ajuda ,sigam me ,0.135,0
+wait ,esperem ,esperem ,0.316,0
+see you ,voce ,ate mais ,0.091,0
+stay together ,fique parado ,fiquem juntos ,0.114,0
+look there ,acalme se ,olha ali ,0.114,0
+ignore that ,ignore ,ignore isso ,0.108,0
+good evening ,tom ,boa noite ,0.091,0
+carry this ,isto isto ,carregue isso ,0.114,0
+stand still ,fique parado ,fique parado ,0.562,0
+be kind ,seja valente ,seja gentil ,0.135,0
+you promised ,voce ,voces prometeram ,0.091,0
+have fun ,se cuida ,diverte te ,0.114,0
+everybody laughs ,todos notaram ,todos riem ,0.135,0
+they lost ,eles aplaudiram ,eles perderam ,0.135,0
+they won ,eles riram ,elas ganharam ,0.114,0
+keep writing ,continue trabalhando ,continue escrevendo ,0.135,0
+help him ,ajude o ,ajude o ,0.562,0
+be fair ,se cuida ,seja justa ,0.114,0
+keep trying ,continue trabalhando ,continue tentando ,0.135,0
+you fainted ,voce sobreviveu ,voce desmaiou ,0.135,0
+answer me ,me ajuda ,responda me ,0.135,0
+she tried ,ela veio ,ela tentava ,0.135,0
+come tomorrow ,venha logo ,venha amanha ,0.135,0
+thanks ,va embora ,obrigada ,0.114,0
+be kind ,seja valente ,se gentil ,0.114,0
+we waited ,nos ,esperamos ,0.150,0
+everyone gossips ,todos notaram ,todos fofocam ,0.135,0
+be tolerant ,se cuida ,se tolerante ,0.135,0
+bring help ,ajude o ,tragam ajuda ,0.114,0
+many thanks ,alguem ligou ,muito obrigada ,0.114,0
+behave yourself ,controle se ,comporta te ,0.114,0
+run ,corra ,corra ,0.316,0
+keep working ,continue trabalhando ,continue trabalhando ,0.562,0
+wonderful ,que ,magnifico ,0.150,0
+tom lies ,tom veio ,tom mente ,0.135,0
+tom came ,tom veio ,tom veio ,0.562,0
+go away ,va embora ,afaste se ,0.114,0
+fantastic ,va ,fantastico ,0.150,0
+it happened ,ele o ,aconteceu ,0.114,0
+tom rescheduled ,tom veio ,tom remarcou ,0.135,0
+nothing changes ,va embora ,nada muda ,0.114,0
+he spoke ,ele o ,ele falou ,0.135,0
+take care ,se cuida ,te cuida ,0.240,0
+just relax ,continue ,apenas relaxem ,0.091,0
+tom burped ,tom veio ,tom arrotou ,0.135,0
+come in ,entre ,entre ,0.316,0
+get out ,afaste ,fora ,0.150,0
+tom insisted ,tom veio ,tom insistiu ,0.135,0
+eat slowly ,ajude te ,coma devagar ,0.114,0
+sit tight ,acalme se ,aguenta firme,0.000,0
+release him ,nos prometemos ,liberte o ,0.114,0
+they left ,eles gritaram ,eles sairam ,0.135,0
+well done ,continue ,bom trabalho ,0.091,0
+terrific ,va ,magnifico ,0.150,0
+come back ,venha ,voltem ,0.150,0
+sit tight ,acalme se ,perai ,0.114,0
+nobody lied ,ninguem ,ninguem mentiu ,0.108,0
+be fair ,se cuida ,seja justo ,0.114,0
+i fell ,eu entendi ,eu cai ,0.135,0
+pardon me ,me ajuda ,perdao ,0.114,0
+forgive me ,me ,perdoe me ,0.192,0
+mistakes happen ,fique parado ,erros acontecem ,0.114,0
+be creative ,se cuida ,sejam criativas ,0.114,0
+it happens ,isso ,isso acontece ,0.108,0
+stop there ,todos riram ,pare ali ,0.114,0
+wash up ,esperem ,lave se ,0.091,0
+i disagree ,eu entendi ,discordo ,0.114,0
+we apologize ,nos prometemos ,nos desculpamos ,0.135,0
+how delicious ,que que ,que delicioso ,0.135,0
+nobody died ,ninguem se ,ninguem morreu ,0.135,0
+i noticed ,eu entendi ,eu notei ,0.135,0
+tom danced ,tom veio ,tom dancou ,0.135,0
+i waited ,eu entendi ,eu esperei ,0.135,0
+i won ,eu entendi ,ganhei ,0.114,0
+help me ,me ajuda ,ajude me ,0.135,0
+listen ,sem ,escuta ,0.150,0
+get lost ,se ,se manda ,0.108,0
+they yelled ,eles gritaram ,eles gritaram ,0.562,0
+tom improvised ,tom veio ,tom improvisou ,0.135,0
+goodbye ,eu entendi ,tchau ,0.114,0
+tom rocks ,tom veio ,tom arrebenta ,0.135,0
+we won ,nos prometemos ,vencemos ,0.114,0
+run ,corra ,corra ,0.316,0
+be fair ,se cuida ,se justa ,0.135,0
+hi guys ,va ,ola pessoal ,0.091,0
+be discreet ,seja valente ,sede discretos ,0.114,0
+be creative ,se cuida ,seja criativo ,0.114,0
+we remember ,nos prometemos ,lembramos ,0.114,0
+leave me ,me ajuda ,me deixa ,0.135,0
+bring backup ,traga reforco ,traga reforco ,0.562,0
+keep fighting ,continue trabalhando ,continuem lutando ,0.114,0
+stuff happens ,fique ,coisas acontecem ,0.091,0
+they called ,eles aplaudiram ,ligaram ,0.114,0
+ignore them ,nos prometemos ,ignore as ,0.114,0
+thank you ,voce ,obrigado ,0.150,0
+go inside ,va ,entre ,0.150,0
+stand by ,va ,aguardem ,0.150,0
+step aside ,se cuida ,afaste se ,0.135,0
+terrific ,va ,genial ,0.150,0
+hi tom ,tom veio ,oi tom ,0.135,0
+take everything ,todos notaram ,peguem tudo ,0.114,0
+how pathetic ,que melodramatico ,que patetico ,0.135,0
+be tolerant ,se cuida ,seja tolerante ,0.114,0
+tom drove ,tom veio ,tom dirigiu ,0.135,0
+sit there ,acalme se ,senta ai ,0.114,0
+wake up ,esperem ,acorde ,0.150,0
+wash up ,esperem ,lavem se ,0.091,0
+seriously ,e mesmo ,e mesmo ,0.562,0
+look alive ,se cuida ,se apresse ,0.135,0
+look out ,afaste ,atencao ,0.150,0
+you start ,voce ,voce comeca ,0.108,0
+listen ,sem ,escutem ,0.150,0
+be discreet ,seja valente ,sejam discretos ,0.114,0
+you missed ,voce sobreviveu ,voce perdeu ,0.135,0
+well done ,continue ,bravo ,0.150,0
+i studied ,eu entendi ,eu estudei ,0.135,0
+tom swore ,tom veio ,tom jurou ,0.135,0
+i won ,eu entendi ,eu venci ,0.135,0
+respect yourself ,controle se ,respeite se ,0.240,0
+follow us ,nos prometemos ,sigam nos ,0.135,0
+help yourself ,controle se ,sirvam se ,0.240,0
+you cheated ,voce sobreviveu ,voces trapacearam ,0.114,0
+check that ,venha logo ,verifique isso ,0.114,0
+come here ,venha aqui ,venha aqui ,0.562,0
+be serious ,seja valente ,fica seria ,0.114,0
+i drove ,eu entendi ,eu dirigi ,0.135,0
+try some ,eles gritaram ,experimentem ,0.114,0
+they won ,eles riram ,eles ganharam ,0.135,0
+forget it ,esquece ,esquece ,0.316,0
+watch carefully ,esperem ,veja cuidadosamente ,0.091,0
+they cheered ,eles aplaudiram ,elas aplaudiram ,0.240,0
+tom contributed ,tom veio ,tom contribuiu ,0.135,0
+they won ,eles riram ,eles venceram ,0.135,0
+stay there ,fique parado ,fica ai ,0.114,0
+welcome ,acalme se ,bem vindo ,0.114,0
+hold it ,isso fede ,segura isso ,0.135,0
+keep going ,continue ,continue ,0.316,0
+stay here ,fique parado ,fiquem aqui ,0.114,0
+i know ,eu entendi ,eu sei ,0.135,0
+attack ,va ,ataquem ,0.150,0
+everything matters ,todos notaram ,tudo importa ,0.114,0
+she walks ,ela veio ,ela caminha ,0.135,0
+sit down ,acalme se ,sente se ,0.240,0
+sit still ,fique parado ,fique parada ,0.135,0
+be ruthless ,seja valente ,seja impiedoso ,0.135,0
+take care ,se cuida ,tome cuidado ,0.114,0
+tom blinked ,tom veio ,tom piscou ,0.135,0
+stay down ,fique te ,fiquem abaixados ,0.114,0
+i confessed ,eu concordo ,eu confessei ,0.135,0
+they obeyed ,eles aplaudiram ,eles obedeceram ,0.135,0
+get real ,eu entendi ,acorda ,0.114,0
+tom works ,tom veio ,tom trabalha ,0.135,0
+somebody laughed ,alguem riu ,alguem riu ,0.562,0
+they crashed ,eles colidiram ,eles bateram ,0.135,0
+who survived ,quem interveio ,quem sobreviveu ,0.135,0
+get down ,se ,abaixe se ,0.192,0
+i remember ,eu entendi ,eu lembro ,0.135,0
+come along ,venha logo ,venha conosco ,0.135,0
+once again ,fique parado ,outra vez ,0.114,0
+keep singing ,continue trabalhando ,continue cantando ,0.135,0
+check this ,isto isto ,verifiquem isto ,0.240,0
+tom grunted ,tom veio ,tom resmungou ,0.135,0
+be specific ,seja valente ,seja especifico ,0.135,0
+get up ,esperem ,levante se ,0.091,0
+replace it ,esquece ,substitua ,0.150,0
+tom jumped ,tom veio ,tom pulou ,0.135,0
+everyone hesitated ,todos notaram ,todos hesitaram ,0.135,0
+they tried ,eles desapareceram ,eles tentaram ,0.135,0
+go now ,va agora ,va agora ,0.562,0
+no comment ,sem comentarios ,sem comentarios ,0.562,0
+ghosts exist ,todos riram ,fantasmas existem ,0.114,0
+get started ,va ,comecem ,0.150,0
+hang on ,va ,aguardem ,0.150,0
+you survived ,voce sobreviveu ,voce sobreviveu ,0.562,0
+look alive ,se cuida ,ande ,0.114,0
+nobody slept ,ninguem o ,ninguem dormiu ,0.135,0
+tom ran ,tom veio ,tom correu ,0.135,0
+it worked ,eu entendi ,funcionou ,0.114,0
+who yelled ,quem interveio ,quem gritou ,0.135,0
+go away ,va embora ,fora ,0.114,0
+wash everything ,todos notaram ,lave tudo ,0.114,0
+we tried ,nos ,nos tentamos ,0.108,0
+how arrogant ,que que ,que arrogante ,0.135,0
+after you ,voce sobreviveu ,voce primeiro ,0.135,0
+watch this ,isto isto ,observem isto ,0.240,0
+go inside ,va ,entra ,0.150,0
+lighten up ,esperem ,relaxe ,0.150,0
+tell me ,me ajuda ,digam me ,0.135,0
+return immediately ,alguem ligou ,retorne imediatamente ,0.114,0
+listen ,sem ,ouca me ,0.091,0
+take it ,esquece ,peguem na ,0.091,0
+they walked ,eles gritaram ,eles caminharam ,0.135,0
+pay attention ,acalme se ,preste atencao ,0.114,0
+be realistic ,seja valente ,seja realista ,0.135,0
+stand aside ,afaste se ,afaste se ,0.562,0
+tom disagreed ,tom veio ,tom discordou ,0.135,0
+come quickly ,venha logo ,venha depressa ,0.135,0
+leave tomorrow ,eles gritaram ,saia amanha ,0.114,0
+follow me ,me ajuda ,siga me ,0.135,0
+everybody stayed ,todos notaram ,todas ficaram ,0.114,0
+tom relaxed ,tom veio ,tom relaxou ,0.135,0
+something changed ,sem isso ,algo mudou ,0.114,0
+have another ,toma cuidado ,tome outro ,0.114,0
+be careful ,se cuida ,tenha cuidado ,0.114,0
+i stayed ,eu entendi ,eu fiquei ,0.135,0
+we promised ,nos prometemos ,nos prometemos ,0.562,0
+write me ,me ajuda ,escreva me ,0.135,0
+tom yelled ,tom veio ,tom gritou ,0.135,0
+we agreed ,nos ,concordamos ,0.150,0
+i agree ,eu entendi ,eu concordo ,0.135,0
+jump ,va ,pule ,0.150,0
+tom prepaid ,tom veio ,tom preparou ,0.135,0
+how embarrassing ,que melodramatico ,que vergonha ,0.135,0
+wait here ,vem ,esperem aqui ,0.091,0
+of course ,todos notaram ,e claro ,0.114,0
+i laughed ,eu entendi ,ri ,0.114,0
+be discreet ,seja valente ,se discreta ,0.114,0
+forget it ,esquece ,esquece ,0.316,0
+work slowly ,que o ,trabalhe devagar ,0.114,0
+be prepared ,se cuida ,estejam preparadas ,0.114,0
+that hurts ,isso fede ,isso machuca ,0.135,0
+i exercised ,eu entendi ,me exercitei ,0.114,0
+check this ,isto isto ,verifica isto ,0.240,0
+we apologize ,nos prometemos ,desculpamos ,0.114,0
+try it ,isso fede ,prove a ,0.114,0
+everyone agrees ,todos notaram ,todos concordam ,0.135,0
+you called ,voce sobreviveu ,voce ligou ,0.135,0
+perfect ,va ,perfeito ,0.150,0
+someone called ,alguem ligou ,alguem telefonou ,0.135,0
+they agree ,eles riram ,concordam ,0.114,0
+tom called ,tom veio ,tom ligou ,0.135,0
+tom understood ,tom veio ,tom entendeu ,0.135,0
+ignore him ,ajude o ,ignora ele ,0.114,0
+be serious ,seja valente ,fiquem serios ,0.114,0
+tom whispered ,tom veio ,tom sussurrou ,0.135,0
+tom grunted ,tom veio ,tom grunhiu ,0.135,0
+say hello ,va ,diga ola ,0.091,0
+stay down ,fique te ,fiquem abaixados ,0.114,0
+seriously ,e mesmo ,e serio ,0.135,0
+watch yourself ,controle se ,tome cuidado ,0.114,0
+keep climbing ,continue trabalhando ,continue escalando ,0.135,0
+how fascinating ,que que ,que fascinante ,0.135,0
+hello girls ,va embora ,oi meninas ,0.114,0
+keep out ,continue ,afaste se ,0.091,0
+choose one ,todos notaram ,escolha um ,0.114,0
+sign here ,va embora ,assina aqui ,0.114,0
+i agreed ,eu entendi ,eu concordo ,0.135,0
+come quick ,venha logo ,vem logo ,0.240,0
+he laughed ,todos riram ,ele riu ,0.114,0
+jump ,va ,pulem ,0.150,0
+how interesting ,que melodramatico ,que interessante ,0.135,0
+tom sighed ,tom veio ,tom suspirou ,0.135,0
+who contributed ,quem interveio ,quem contribuiu ,0.135,0
+tom answered ,tom veio ,tom respondeu ,0.135,0
+i understand ,eu ,eu entendo ,0.108,0
+dogs bark ,todos riram ,cachorros latem ,0.114,0
+nobody asked ,ninguem o ,ninguem perguntou ,0.135,0
+be confident ,seja valente ,sejam confiantes ,0.114,0
+nobody complained ,ninguem isto ,ninguem reclamou ,0.135,0
+tom smokes ,tom veio ,tom fuma ,0.135,0
+everyone prayed ,todos notaram ,todos rezaram ,0.135,0
+everybody knew ,todos notaram ,todos sabiam ,0.135,0
+watch this ,isto isto ,olhe isso ,0.114,0
+help us ,nos ajude ,ajude nos ,0.150,0
+seriously ,e mesmo ,serio ,0.114,0
+this works ,isto isto ,isto funciona ,0.135,0
+how disgusting ,que melodramatico ,que nojento ,0.135,0
+try this ,isto isto ,experimente isto ,0.240,0
+tom survived ,tom veio ,tom sobreviveu ,0.135,0
+they agree ,eles riram ,eles concordam ,0.135,0
+she slipped ,ela veio ,ela escorregou ,0.135,0
+who resigned ,quem interveio ,quem renunciou ,0.135,0
+they approve ,eles ,elas aprovam ,0.091,0
+get up ,esperem ,levanta te ,0.091,0
+show yourself ,se cuida ,mostre se ,0.135,0
+oh no ,sem comentarios ,ah nao ,0.114,0
+who escaped ,quem ,quem escapou ,0.108,0
+i slipped ,eu entendi ,eu escorreguei ,0.135,0
+excuse me ,me ,perdao ,0.150,0
+get out ,afaste ,saia daqui ,0.091,0
+i remember ,eu entendi ,lembro ,0.114,0
+congratulations ,va embora ,meus parabens ,0.114,0
+follow us ,nos prometemos ,siga nos ,0.135,0
+cuff him ,ajude o ,algeme o ,0.240,0
+be brief ,seja valente ,seja breve ,0.135,0
+answer me ,me ajuda ,responda me ,0.135,0
+continue working ,continue trabalhando ,continuem trabalhando ,0.240,0
+tom worked ,tom veio ,tom trabalhou ,0.135,0
+we lost ,nos prometemos ,nos perdemos ,0.135,0
+get away ,va embora ,se manda ,0.114,0
+bring food ,traga reforco ,tragam comida ,0.114,0
+i surrender ,eu entendi ,me rendo ,0.114,0
+they vanished ,eles aplaudiram ,eles desapareceram ,0.135,0
+be nice ,seja valente ,sejam legais ,0.114,0
+ignore them ,nos prometemos ,ignorem nas ,0.114,0
+nobody understands ,ninguem se ,ninguem entende ,0.135,0
+take it ,esquece ,pega o ,0.091,0
+get dressed ,se cuida ,vista se ,0.135,0
+how melodramatic ,que melodramatico ,que melodramatico ,0.562,0
+how wonderful ,que maravilha ,que maravilha ,0.562,0
+stop it ,esquece ,pare ,0.150,0
+sign this ,isto isto ,assine ,0.114,0
+tell me ,me ajuda ,diz me ,0.135,0
+who ran ,quem interveio ,quem correu ,0.135,0
+forget it ,esquece ,esqueca ,0.150,0
+come quickly ,venha logo ,venham rapido ,0.114,0
+keep quiet ,fique te ,fique quieto ,0.135,0
+tom remembered ,tom veio ,tom relembrou ,0.135,0
+stop them ,nos prometemos ,detenham nos ,0.135,0
+i rescheduled ,eu entendi ,remarquei ,0.114,0
+be fair ,se cuida ,sejam justas ,0.114,0
+keep running ,continue trabalhando ,continue correndo ,0.135,0
+how unfortunate ,que melodramatico ,que pena ,0.135,0
+hang on ,va ,aguarde ,0.150,0
+walk slowly ,que maravilha ,ande devagar ,0.114,0
+tom snores ,tom veio ,tom ronca ,0.135,0
+what for ,que maravilha ,para que ,0.135,0
+tom refused ,tom veio ,tom recusou ,0.135,0
+it rained ,isso fede ,estava chovendo ,0.114,0
+they walked ,eles gritaram ,caminharam ,0.114,0
+cool down ,acalme se ,se acalme ,0.150,0
+be confident ,seja valente ,sede confiantes ,0.114,0
+i jumped ,eu entendi ,eu pulei ,0.135,0
+we survived ,nos prometemos ,nos sobrevivemos ,0.135,0
+smile ,nos prometemos ,sorria ,0.114,0
+get away ,va embora ,cai fora ,0.114,0
+i improvised ,eu entendi ,eu improvisei ,0.135,0
+who won ,quem interveio ,quem ganhou ,0.135,0
+anybody hurt ,alguem ligou ,alguem machucado ,0.135,0
+get serious ,fiquem ,fale serio ,0.091,0
+they danced ,elas dancaram ,elas dancaram ,0.562,0
+they disappeared ,eles desapareceram ,eles desapareceram ,0.562,0
+tom gasped ,tom veio ,tom arfou ,0.135,0
+i tried ,eu entendi ,tentei ,0.114,0
+i understood ,eu entendi ,entendi ,0.240,0
+get down ,se ,desca ,0.150,0
+go away ,va embora ,cai fora ,0.114,0
+i shouted ,eu entendi ,eu gritei ,0.135,0
+well done ,continue ,bem feito ,0.091,0
+be merciless ,seja valente ,seja piedoso ,0.135,0
+take it ,esquece ,pegue a ,0.091,0
+i sympathize ,eu entendi ,me simpatizo ,0.114,0
+memorize this ,isto isto ,memorize isso ,0.114,0
+show me ,me ajuda ,me mostre ,0.135,0
+they cheat ,eles riram ,eles trapacearam ,0.135,0
+we agree ,nos prometemos ,nos concordamos ,0.135,0
+keep moving ,continue trabalhando ,continue andando ,0.135,0
+everybody waited ,todos notaram ,todos esperaram ,0.135,0
+how deep ,que melodramatico ,quao fundo ,0.114,0
+try this ,isto isto ,experimenta isto ,0.240,0
+wonderful ,que ,que maravilha ,0.108,0
+tom clapped ,tom veio ,tom aplaudiu ,0.135,0
+everything changed ,va embora ,tudo mudou ,0.114,0
+have faith ,alguem ligou ,tenham fe ,0.114,0
+come tomorrow ,venha logo ,venham amanha ,0.114,0
+look here ,vem ,olhe aqui ,0.091,0
+sit still ,fique parado ,fique parado ,0.562,0
+see you ,voce ,nos vemos ,0.091,0
+go ahead ,continue ,continua ,0.150,0
+keep warm ,continue trabalhando ,mantenha aquecido ,0.114,0
+sign this ,isto isto ,assine isso ,0.114,0
+i whistled ,eu entendi ,eu assobiei ,0.135,0
+tom cried ,tom veio ,tom chorou ,0.135,0
+help me ,me ajuda ,ajuda me ,0.150,0
+calm down ,fique te ,acalmem se ,0.114,0
+tom spoke ,tom veio ,tom falou ,0.135,0
+i contributed ,eu entendi ,eu contribui ,0.135,0
+tom accelerated ,tom veio ,tom acelerou ,0.135,0
+everybody agrees ,todos notaram ,todos concordam ,0.135,0
+he came ,ela veio ,ele veio ,0.240,0
+ignore them ,nos prometemos ,ignore os ,0.114,0
+it matters ,esquece ,importa ,0.150,0
+tom stopped ,tom veio ,tom parou ,0.135,0
+wonderful ,que ,maravilhoso ,0.150,0
+no way ,sem ,sem chance ,0.108,0
+stop ,va ,pare ,0.150,0
+have fun ,se cuida ,divirta se ,0.135,0
+we talked ,nos prometemos ,nos conversamos ,0.135,0
+be creative ,se cuida ,sejam criativos ,0.114,0
+thanks ,va embora ,obrigado ,0.114,0
+keep reading ,continue trabalhando ,continue lendo ,0.135,0
+everyone survived ,todos notaram ,todos sobreviveram ,0.135,0
+how thrilling ,que melodramatico ,que emocionante ,0.135,0
+take cover ,acalme se ,protejam se ,0.240,0
+somebody called ,alguem ligou ,alguem telefonou ,0.135,0
+come over ,venha ,venha ,0.316,0
+how beautiful ,que melodramatico ,que bonita ,0.135,0
+forget it ,esquece ,esquece ,0.316,0
+cool down ,acalme se ,acalme se ,0.562,0
+really ,e mesmo ,e serio ,0.135,0
+good job ,va embora ,bom trabalho ,0.114,0
+seize him ,ajude o ,agarre o ,0.240,0
+pay attention ,acalme se ,prestem atencao ,0.114,0
+they struggled ,eles riram ,eles lutaram ,0.135,0
+look there ,acalme se ,olha la ,0.114,0
+he smiled ,todos riram ,ele sorriu ,0.114,0
+say hello ,va ,cumprimenta ,0.150,0
+drop it ,isso fede ,largue isso ,0.135,0
+tom screamed ,tom veio ,tom gritou ,0.135,0
+who fell ,quem interveio ,quem caiu ,0.135,0
+take it ,esquece ,pegue o ,0.091,0
+be discreet ,seja valente ,seja discreta ,0.135,0
+slow down ,acalme se ,devagar ,0.114,0
+respect yourself ,controle se ,se respeite ,0.135,0
+look out ,afaste ,cuidado ,0.150,0
+show me ,me ajuda ,mostre me ,0.135,0
+i coughed ,eu entendi ,eu tossi ,0.135,0
+tom swam ,tom veio ,tom nadou ,0.135,0
+i danced ,eu entendi ,eu dancei ,0.135,0
+come quickly ,venha logo ,venha rapido ,0.135,0
+identify yourself ,controle se ,identifique se ,0.240,0
+take precautions ,se cuida ,tome precaucoes ,0.114,0
+tom knows ,tom veio ,tom sabe ,0.135,0
+tom understands ,tom veio ,tom entende ,0.135,0
+everybody laughed ,todos riram ,todos riram ,0.562,0
+i rescheduled ,eu entendi ,eu remarquei ,0.135,0
+she smiled ,ela veio ,ela sorria ,0.135,0
+you stink ,voce ,voce fede ,0.108,0
+i apologize ,eu entendi ,peco perdao ,0.114,0
+cool off ,acalme se ,acalme se ,0.562,0
+they applauded ,eles aplaudiram ,elas aplaudiram ,0.240,0
+good afternoon ,eles gritaram ,boa tarde ,0.114,0
+they voted ,eles colidiram ,elas votaram ,0.114,0
+be tolerant ,se cuida ,sejam tolerantes ,0.114,0
+what fun ,que ,que divertido ,0.108,0
+have courage ,todos riram ,tenham coragem ,0.114,0
+birds sing ,nos prometemos ,passaros cantam ,0.114,0
+go ahead ,continue ,continue ,0.316,0
+tom arrived ,tom veio ,tom chegou ,0.135,0
+taste this ,isto isto ,experimentem isto ,0.240,0
+hang on ,va ,aguardem ,0.150,0
+she came ,ela veio ,ela veio ,0.562,0
+be punctual ,seja valente ,seja pontual ,0.135,0
+behave yourselves ,se cuida ,comportem se ,0.135,0
+watch yourself ,controle se ,tenham cuidado ,0.114,0
+defend yourself ,controle se ,defende te ,0.114,0
+it failed ,isso ,falhou ,0.150,0
+happy holidays ,todos notaram ,boas festas ,0.114,0
+smile ,nos prometemos ,sorriam ,0.114,0
+come soon ,venha ,venha logo ,0.108,0
+happy easter ,todos riram ,feliz pascoa ,0.114,0
+be reasonable ,seja valente ,seja razoavel ,0.135,0
+keep smiling ,continue trabalhando ,continue sorrindo ,0.135,0
+we failed ,nos ,falhamos ,0.150,0
+examine them ,nos prometemos ,examine os ,0.114,0
+relax ,va ,relaxa ,0.150,0
+they refused ,eles gritaram ,eles recusaram ,0.135,0
+this stinks ,isso fede ,isto fede ,0.240,0
+cheer up ,esperem ,animo ,0.150,0
+got it ,eu entendi ,entendeu ,0.114,0
+take it ,esquece ,pega a ,0.091,0
+tom surrendered ,tom veio ,tom desistiu ,0.135,0
+show me ,me ajuda ,me mostra ,0.135,0
+everybody paid ,todos notaram ,todos pagaram ,0.135,0
+wake up ,esperem ,acordem ,0.150,0
+get up ,esperem ,levante se ,0.091,0
+tell me ,me ajuda ,diga me ,0.135,0
+they fell ,eles riram ,elas sentiram ,0.114,0
+keep fighting ,continue trabalhando ,continue lutando ,0.135,0
+you cheated ,voce sobreviveu ,voce trapaceou ,0.135,0
+think positive ,fique parado ,pensem positivo ,0.114,0
+come inside ,va ,entra ,0.150,0
+jump ,va ,pule ,0.150,0
+tom yawned ,tom veio ,tom bocejou ,0.135,0
+who died ,quem interveio ,quem morreu ,0.135,0
+catch him ,ajude o ,pegue o ,0.240,0
+nice shot ,alguem ligou ,belo tiro ,0.114,0
+listen ,sem ,escute ,0.150,0
+relax ,va ,relaxe ,0.150,0
+keep dancing ,continue trabalhando ,continuem dancando ,0.114,0
+hello girls ,va embora ,ola meninas ,0.114,0
+of course ,todos notaram ,claro ,0.114,0
+they smiled ,eles aplaudiram ,eles sorriram ,0.135,0
+tom canceled ,tom veio ,tom cancelou ,0.135,0
+birds fly ,venha logo ,passaros voam ,0.114,0
+he tries ,ele o ,ele tenta ,0.135,0
+come quickly ,venha logo ,venha rapido ,0.135,0
+calm down ,fique te ,te acalma ,0.135,0
+we try ,nos prometemos ,nos tentamos ,0.135,0
+keep searching ,continue trabalhando ,continue procurando ,0.135,0
+it burned ,va ,queimou ,0.150,0
+who phoned ,quem interveio ,quem ligou ,0.135,0
+they danced ,elas dancaram ,eles dancaram ,0.240,0
+help me ,me ajuda ,me ajuda ,0.562,0
+hi ,afaste se ,oi ,0.114,0
+tom cheats ,tom veio ,tom trapaceia ,0.135,0
+they called ,eles aplaudiram ,elas ligaram ,0.114,0
+everyone cheered ,todos aplaudiram ,todos aplaudiram ,0.562,0
+how nice ,que legal ,que legal ,0.562,0
+listen ,sem ,escutai ,0.150,0
+hug me ,me me ,me abrace ,0.135,0
+go ,va ,vai ,0.150,0
+keep walking ,continue trabalhando ,continue caminhando ,0.135,0
+stand up ,se ,de pe ,0.091,0
+remember it ,esquece ,lembre disso ,0.091,0
+tom lied ,tom veio ,tom mentiu ,0.135,0
+drive faster ,alguem ligou ,dirija rapido ,0.114,0
+he resigned ,ele o ,ele renunciou ,0.135,0
+who ,quem interveio ,quem ,0.135,0
+be fair ,se cuida ,se justo ,0.135,0
+tom coughed ,tom veio ,tom tossiu ,0.135,0
+get upstairs ,va ,subam ,0.150,0
+you missed ,voce sobreviveu ,voces perderam ,0.114,0
+somebody called ,alguem ligou ,alguem ligou ,0.562,0
+she died ,ela veio ,ela morreu ,0.135,0
+control yourself ,controle se ,controle se ,0.562,0
+get down ,se ,escreva ,0.150,0
+never mind ,eu entendi ,tudo bem ,0.114,0
+cheers ,acalme se ,saude ,0.114,0
+watch me ,me ajuda ,observe me ,0.135,0
+tom quit ,tom veio ,tom desistiu ,0.135,0
+come in ,entre ,entrem ,0.150,0
+be friendly ,se cuida ,se amigavel ,0.135,0
+come over ,venha ,vem ,0.150,0
+go away ,va embora ,afaste se ,0.114,0
+god exists ,acalme se ,deus existe ,0.114,0
+forget it ,esquece ,esqueca ,0.150,0
+keep listening ,continue ,continue escutando ,0.108,0
+they called ,eles aplaudiram ,eles ligaram ,0.135,0
+stay down ,fique te ,fique abaixado ,0.135,0
+back off ,acalme se ,recua ,0.114,0
+be brave ,seja valente ,seja corajoso ,0.135,0
+you survived ,voce sobreviveu ,voces sobreviveram ,0.114,0
+tom grumbled ,tom veio ,tom resmungou ,0.135,0
+be creative ,se cuida ,sede criativos ,0.114,0
+choose one ,todos notaram ,escolha uma ,0.114,0
+get upstairs ,va ,sobe ,0.150,0
+she walks ,ela veio ,ela anda ,0.135,0
+of course ,todos notaram ,pois sim ,0.114,0
+tom drinks ,tom veio ,tom bebe ,0.135,0
+be brave ,seja valente ,seja valente ,0.562,0
+congratulations ,va embora ,parabens ,0.114,0
+be patient ,seja valente ,tenha paciencia ,0.114,0
+get dressed ,se cuida ,vistam se ,0.135,0
+keep practicing ,continue trabalhando ,continuem praticando ,0.114,0
+you drive ,voce sobreviveu ,voce dirige ,0.135,0
+forget it ,esquece ,deixa ,0.150,0
+tom confessed ,tom veio ,tom confessou ,0.135,0
+who phoned ,quem interveio ,quem telefonou ,0.135,0
+come on ,va ,vamos ,0.150,0
+stay there ,fique parado ,fique ai ,0.135,0
+forget it ,esquece ,esqueca ,0.150,0
+who canceled ,quem interveio ,quem cancelou ,0.135,0
+calm down ,fique te ,acalma te ,0.240,0
+eat everything ,todos notaram ,come tudo ,0.114,0
+keep quiet ,fique te ,fique quieta ,0.135,0
+she runs ,ela veio ,ela corre ,0.135,0
+bless you ,voce ,saude ,0.150,0
+how awful ,que maravilha ,que terrivel ,0.135,0
+happy birthday ,todos riram ,feliz aniversario ,0.114,0
+tom hesitated ,tom veio ,tom hesitou ,0.135,0
+i understood ,eu entendi ,eu entendi ,0.562,0
+seriously ,e mesmo ,mesmo ,0.240,0
+try it ,isso fede ,prove o ,0.114,0
+you run ,corra ,corra ,0.316,0
+everything changes ,va ,tudo muda ,0.091,0
+go away ,va embora ,va embora ,0.562,0
+tom tripped ,tom veio ,tom disparou ,0.135,0
+they crashed ,eles colidiram ,elas colidiram ,0.240,0
+leave us ,nos prometemos ,nos deixe ,0.135,0
+come on ,va ,vamos ,0.150,0
+get out ,afaste ,sai ,0.150,0
+hurry up ,esperem ,se apressa ,0.091,0
+no problem ,sem isso ,sem problema ,0.135,0
+i exaggerated ,eu entendi ,eu exagerei ,0.135,0
+we remember ,nos prometemos ,nos lembramos ,0.135,0
+no objection ,sem objecoes ,sem objecoes ,0.562,0
+hey relax ,acalme se ,ei relaxe ,0.114,0
+run ,corra ,corram ,0.150,0
+excuse me ,me ,desculpa ,0.150,0
+get real ,eu entendi ,acorda ,0.114,0
+tom waved ,tom veio ,tom acenou ,0.135,0
+be friendly ,se cuida ,sede amigaveis ,0.114,0
+tom dozed ,tom veio ,tom cochilou ,0.135,0
+who rescheduled ,quem interveio ,quem remarcou ,0.135,0
+we survived ,nos prometemos ,nos sobrevivemos ,0.135,0
+something happened ,todos riram ,algo aconteceu ,0.114,0
+tom swims ,tom veio ,tom nada ,0.135,0
+accidents happen ,sem isso ,acidentes acontecem ,0.114,0
+come quick ,venha logo ,venha rapido ,0.135,0
+we failed ,nos ,nos falhamos ,0.108,0
+bring help ,ajude o ,traga ajuda ,0.114,0
+everybody knows ,todos notaram ,todos sabem ,0.135,0
+study hard ,alguem ligou ,estudem muito ,0.114,0
+tom whistled ,tom veio ,tom assobiou ,0.135,0
+how curious ,que melodramatico ,que curioso ,0.135,0
+listen ,sem ,ouca isso ,0.091,0
+dogs bark ,todos riram ,caes latem ,0.114,0
+get out ,afaste ,saia ,0.150,0
+be objective ,seja valente ,seja objetivo ,0.135,0
+everyone agreed ,todos notaram ,todos concordaram ,0.135,0
+control yourselves ,va embora ,controlem se ,0.114,0
+everyone looked ,todos notaram ,todos olharam ,0.135,0
+be objective ,seja valente ,seja objetiva ,0.135,0
+sleep tight ,acalme se ,durma bem ,0.114,0
+how cute ,que melodramatico ,que bonitinha ,0.135,0
+come inside ,va ,entre ,0.150,0
+everyone dreams ,todos notaram ,todos sonham ,0.135,0
+i know ,eu entendi ,sei ,0.114,0
+come here ,venha aqui ,vem ca ,0.114,0
+step aside ,se cuida ,se afaste ,0.135,0
+listen carefully ,sem cuidadosamente ,escutem bem ,0.114,0
+it matters ,esquece ,isso importa ,0.091,0
+keep out ,continue ,nao entre ,0.091,0
+they won ,eles riram ,elas venceram ,0.114,0
+who cheered ,quem ,quem aplaudiu ,0.108,0
+leave me ,me ajuda ,me deixe ,0.135,0
+be content ,se criativa ,fique contente ,0.114,0
+how tragic ,que que ,que tragico ,0.135,0
+take care ,se cuida ,se cuida ,0.562,0
+save yourself ,controle se ,salve se ,0.240,0
+eat everything ,todos notaram ,coma tudo ,0.114,0
+keep talking ,continue trabalhando ,continue falando ,0.135,0
+she blushed ,ela veio ,ela corou ,0.135,0
+run ,corra ,corram ,0.150,0
+who disagreed ,quem interveio ,quem discordou ,0.135,0
+listen up ,esperem ,escute ,0.150,0
+listen carefully ,sem cuidadosamente ,escute bem ,0.114,0
+we understand ,nos ,nos entendemos ,0.108,0
+tom waited ,tom veio ,tom esperou ,0.135,0
+be serious ,seja valente ,fiquem serias ,0.114,0
+tom failed ,tom veio ,tom falhou ,0.135,0
+see above ,elas dancaram ,vejam acima ,0.114,0
+smoking stinks ,isso fede ,fumar fede ,0.240,0
+no problem ,sem isso ,problema nenhum ,0.114,0
+how beautiful ,que melodramatico ,que bonito ,0.135,0
+help me ,me ajuda ,ajudem me ,0.135,0
+come quickly ,venha logo ,venha depressa ,0.135,0
+too late ,eu entendi ,tarde demais ,0.114,0
+answer me ,me ajuda ,respondam me ,0.135,0
+tom flinched ,tom veio ,tom recuou ,0.135,0
+be prepared ,se cuida ,esteja preparado ,0.114,0
+they canceled ,eles gritaram ,elas cancelaram ,0.114,0
+it snowed ,me ,nevou ,0.150,0
+they cheered ,eles aplaudiram ,eles aplaudiram ,0.562,0
+follow him ,ajude o ,siga o ,0.240,0
+say goodbye ,tchau ,diga adeus ,0.091,0
+shut up ,esperem ,cale se ,0.091,0
+drop it ,isso fede ,solte o ,0.114,0
+ignore him ,ajude o ,ignore o ,0.240,0
+get started ,va ,comece ,0.150,0
+everybody laughed ,todos riram ,todos riam ,0.135,0
+be careful ,se cuida ,tome cuidado ,0.114,0
+i forgot ,eu entendi ,me esqueci ,0.114,0
+wake up ,esperem ,acorde ,0.150,0
+come quick ,venha logo ,venha logo ,0.562,0
+memorize it ,esquece ,memorize ,0.150,0
+watch yourself ,controle se ,tomem cuidado ,0.114,0
+help yourself ,controle se ,serve te ,0.114,0
+stand by ,va ,aguarde ,0.150,0
+leave now ,ela veio ,saia agora ,0.114,0
+everybody applauded ,todos riram ,todos aplaudiram ,0.135,0
+hang on ,va ,aguarde ,0.150,0
+tom slipped ,tom veio ,tom escorregou ,0.135,0
+unbelievable ,todos ,inacreditavel ,0.150,0
+they agree ,eles riram ,elas concordam ,0.114,0
+hurry up ,esperem ,depressa ,0.150,0
+mary shrieked ,venha logo ,maria guinchou ,0.114,0
+be discreet ,seja valente ,seja discreto ,0.135,0
+think positive ,fique parado ,pense positivo ,0.114,0
+ignore him ,ajude o ,ignore ele ,0.114,0
+you tried ,voce ,voce tentou ,0.108,0
+ignore that ,ignore ,ignore o ,0.108,0
+excuse me ,me ,desculpe ,0.150,0
+hello everyone ,todos notaram ,ola pessoal ,0.114,0
+join us ,nos prometemos ,junte se ,0.114,0
+cool down ,acalme se ,acalmem se ,0.240,0
+have another ,toma cuidado ,toma outro ,0.135,0
+straighten up ,esperem ,endireite se ,0.091,0
+we promised ,nos prometemos ,prometemos ,0.240,0
+hey relax ,acalme se ,ei relaxem ,0.114,0
+i screamed ,eu entendi ,eu gritei ,0.135,0
+they crashed ,eles colidiram ,eles colidiram ,0.562,0
+bring food ,traga reforco ,traga comida ,0.135,0
+i cheated ,eu entendi ,eu trapaceei ,0.135,0
+continue working ,continue trabalhando ,continue trabalhando ,0.562,0
+have fun ,se cuida ,divirtam se ,0.135,0
+what nonsense ,que melodramatico ,que besteira ,0.135,0
+get serious ,fiquem ,fique serio ,0.091,0
+help ,ajude o ,ajuda ,0.114,0
+stay cool ,fique parado ,fique calmo ,0.135,0
+i burped ,eu entendi ,eu arrotei ,0.135,0
+pace yourself ,controle se ,va devagar ,0.114,0
+you tried ,voce ,voces tentaram ,0.091,0
+be creative ,se cuida ,se criativa ,0.135,0
+cool down ,acalme se ,acalme se ,0.562,0
+you fainted ,voce sobreviveu ,voces desmaiaram ,0.114,0
+be nice ,seja valente ,seja legal ,0.135,0
+they quarreled ,eles gritaram ,eles discutiram ,0.135,0
+cool off ,acalme se ,acalme se ,0.562,0
+help me ,me ajuda ,me ajuda ,0.562,0
+excuse me ,me ,perdao ,0.150,0
+help me ,me ajuda ,ajude me ,0.135,0
+try this ,isto isto ,experimentem isto ,0.240,0
+tom moaned ,tom veio ,tom gemeu ,0.135,0
+taste this ,isto isto ,experimenta isto ,0.240,0
+everybody claps ,todos notaram ,todos aplaudem ,0.135,0
+tom fought ,tom veio ,tom lutou ,0.135,0
+i promised ,eu entendi ,prometi ,0.114,0
+we succeeded ,nos prometemos ,nos conseguimos ,0.135,0
+keep paddling ,continue trabalhando ,continue remando ,0.135,0
+no way ,sem ,impossivel ,0.150,0
+everybody cheered ,todos aplaudiram ,todos vibraram ,0.135,0
+hello ,va ,alo ,0.150,0
+help us ,nos ajude ,nos ajude ,0.562,0
+come quickly ,venha logo ,venha rapido ,0.135,0
+who cares ,quem interveio ,quem liga ,0.135,0
+bring backup ,traga reforco ,tragam reforco ,0.240,0
+got it ,eu entendi ,entendi ,0.240,0
+sign here ,va embora ,assine aqui ,0.114,0
+tom sneezed ,tom veio ,tom espirrou ,0.135,0
+they fell ,eles riram ,eles sentiram ,0.135,0
+you won ,voce ,voce ganhou ,0.108,0
+we agreed ,nos ,nos concordamos ,0.108,0
+tom fainted ,tom veio ,tom desmaiou ,0.135,0
+forgive us ,nos prometemos ,perdoe nos ,0.135,0
+stop ,va ,parem ,0.150,0
+sit here ,senta aqui ,senta aqui ,0.562,0
+kiss me ,me ajuda ,beije me ,0.135,0
+taste this ,isto isto ,prove isto ,0.240,0
+it helps ,isso fede ,isso ajuda ,0.135,0
+she disappeared ,ela veio ,ela desapareceu ,0.135,0
+take this ,isto isto ,pegue isso ,0.114,0
+attack ,va ,atacar ,0.150,0
+wake up ,esperem ,acorda ,0.150,0
+be objective ,seja valente ,sejam objetivos ,0.114,0
+wait up ,esperem ,esperem ,0.316,0
+leave me ,me ajuda ,deixe me ,0.135,0
+they swam ,eles aplaudiram ,elas nadaram ,0.114,0
+everything stopped ,todos notaram ,todos pararam ,0.135,0
+well done ,continue ,parabens ,0.150,0
+tom intervened ,tom veio ,tom interveio ,0.135,0
+then what ,e serio ,e entao ,0.135,0
+who quit ,quem interveio ,quem desistiu ,0.135,0
